@@ -26,3 +26,9 @@
     name: sbm-agent
     state: restarted
     enabled: yes
+
+
+- name: Install unzip
+  package:
+    name: lftp 
+    state: latest
