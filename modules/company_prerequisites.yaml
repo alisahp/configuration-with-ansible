@@ -1,6 +1,0 @@
----
--  name: Module
-   hosts: all
-   roles:
-     - { role:  company_prerequisites }
-
